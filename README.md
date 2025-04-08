@@ -21,36 +21,47 @@ As an aspiring cybersecurity professional, I am seeking a Tier 1 Analyst role wi
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+### Network Analysis
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1E90FF?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Zeek-4682B4?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Snort-B22222?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-NetworkMiner-DC143C?&style=for-the-badge&logoColor=white" />
 </div>
 
-### Endpoint
+### Endpoint Forensics
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+<img src="https://img.shields.io/badge/-Sysinternals-2E8B57?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Sysmon-3CB371?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Autopsy-556B2F?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Redline-6B8E23?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-KAPE-228B22?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Volatility-2F4F4F?&style=for-the-badge&logoColor=white" />
 </div>
 
-### SIEM
+### SIEM & Log Analysis
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <<img src="https://img.shields.io/badge/-Splunk-DAA520?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-ELK%20Stack-FFD700?&style=for-the-badge&logoColor=black" />
+</div>
+        
+### Threat Intelligence & Detection
+<div>
+<img src="https://img.shields.io/badge/-OpenCTI-800080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-MISP-9932CC?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-YARA-BA55D3?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="[https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />](https://img.shields.io/badge/-CySA%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white)
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20CySA%2B-800080?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20PenTest%2B%20%28Scheduled%29-8B0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Information%20Technology%20Management%20(WGU)-002E5D?&style=for-the-badge&logoColor=white" />
+
 </div>
 
 ## Projects
