@@ -2,14 +2,11 @@
 # Hello, I'm Joshua
 <a href="https://www.linkedin.com/in/jjcwagstaff/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a cybersecurity professional with a Bachelor's in Information Technology Management and certifications in CompTIA Network+, CompTIA Security+, CompTIA CySA+, and ISC2 Certified in Cybersecurity. I specialize in SOC analysis, network defense, and incident response. My hands-on experience with tools like Wireshark, Splunk, Snort, and ELK Stack allows me to develop practical skills for addressing real-world security challenges. I am actively enhancing my expertise in penetration testing, endpoint security, and digital forensics, with a focus on network traffic analysis and incident response. I’m eager to apply my skills in a professional setting and contribute to safeguarding critical infrastructure.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+As an aspiring cybersecurity professional, I am seeking a Tier 1 Analyst role within a Security Operations Center (SOC). With certifications in CompTIA Security+, CySA+, Network+, and ISC2 Certified in Cybersecurity, I am prepared to bring my expertise in incident response, network defense, and security monitoring to help organizations mitigate cyber threats. I am committed to continuous learning and growth while contributing to a team focused on protecting infrastructure from evolving cyber risks.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
