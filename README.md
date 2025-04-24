@@ -15,7 +15,7 @@ As an aspiring cybersecurity professional, I am seeking a Tier 1 Analyst role wi
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/JoshuaWagstaff/Identify-Suspicious-Activity-with-SIEM-">SIEM Lab</a>|
 | Identifying Malicious Activity/Processes | <a href="https://github.com/JoshuaWagstaff/Host-Artifacts">Host Artifacts</a>|
-| Incident Response & Network Defense           |  <a href="https://github.com/JoshuaWagstaff/Identify-Suspicious-Activity-with-SIEM-">Network Defense</a>|
+| Incident Response & Network Defense           |  <a href="https://github.com/JoshuaWagstaff/Network-Defense">Network Defense</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
