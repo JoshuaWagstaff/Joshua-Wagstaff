@@ -8,7 +8,7 @@ I am a cybersecurity professional with a Bachelor's in Information Technology Ma
 
 As an aspiring cybersecurity professional, I am seeking a Tier 1 Analyst role within a Security Operations Center (SOC). With certifications in CompTIA Security+, CySA+, Network+, and ISC2 Certified in Cybersecurity, I am prepared to bring my expertise in incident response, network defense, and security monitoring to help organizations mitigate cyber threats. I am committed to continuous learning and growth while contributing to a team focused on protecting infrastructure from evolving cyber risks.
 
-## Showcased Projects
+## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
