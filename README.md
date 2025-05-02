@@ -17,8 +17,7 @@ As an aspiring cybersecurity professional, I am seeking a Tier 1 Analyst role wi
 | Incident Response & Network Defense           |  <a href="https://github.com/JoshuaWagstaff/Network-Defense">Network Defense</a>|
 | Utilizing Threat Intelligence Tools           | <a href="https://github.com/JoshuaWagstaff/Threat-Intelligence/blob/main/README.md">Threat Intelligence</a>|
 | MITRE ATT&CK                                  | <a href="https://github.com/JoshuaWagstaff/MITRE-ATT-CK">MITRE ATT&CK</a>|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
+| Malware Analysis                              | <a href="https://github.com/JoshuaWagstaff/Malware-Analysis/blob/main/README.md">Malware Analysis</a>|
 ## Tools
 
 ### Network Analysis
@@ -76,4 +75,4 @@ https://github.com/JoshuaWagstaff/YARA/blob/main/README.md
 
 https://github.com/JoshuaWagstaff/MITRE-ATT-CK
 
-
+https://github.com/JoshuaWagstaff/Malware-Analysis/blob/main/README.md
