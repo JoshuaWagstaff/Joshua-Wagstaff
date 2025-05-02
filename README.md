@@ -8,8 +8,7 @@ I am a cybersecurity professional with a Bachelor's in Information Technology Ma
 
 As an aspiring cybersecurity professional, I am seeking a Tier 1 Analyst role within a Security Operations Center (SOC). With certifications in CompTIA Security+, CySA+, Network+, and ISC2 Certified in Cybersecurity, I am prepared to bring my expertise in incident response, network defense, and security monitoring to help organizations mitigate cyber threats. I am committed to continuous learning and growth while contributing to a team focused on protecting infrastructure from evolving cyber risks.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -17,7 +16,7 @@ As an aspiring cybersecurity professional, I am seeking a Tier 1 Analyst role wi
 | Identifying Malicious Activity/Processes | <a href="https://github.com/JoshuaWagstaff/Host-Artifacts">Host Artifacts</a>|
 | Incident Response & Network Defense           |  <a href="https://github.com/JoshuaWagstaff/Network-Defense">Network Defense</a>|
 | Utilizing Threat Intelligence Tools           | <a href="https://github.com/JoshuaWagstaff/Threat-Intelligence/blob/main/README.md">Threat Intelligence</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
+| MITRE ATT&CK                                  | <a href="https://github.com/JoshuaWagstaff/MITRE-ATT-CK">MITRE ATT&CK</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
@@ -74,5 +73,7 @@ https://github.com/JoshuaWagstaff/Network-Defense
 https://github.com/JoshuaWagstaff/Threat-Intelligence/blob/main/README.md
 
 https://github.com/JoshuaWagstaff/YARA/blob/main/README.md
+
+https://github.com/JoshuaWagstaff/MITRE-ATT-CK
 
 
