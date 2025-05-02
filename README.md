@@ -13,7 +13,7 @@ As an aspiring cybersecurity professional, I am seeking a Tier 1 Analyst role wi
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/JoshuaWagstaff/Identify-Suspicious-Activity-with-SIEM-">SIEM Lab</a>|
+| YARA Scripting                                | <a href="https://github.com/JoshuaWagstaff/YARA/blob/main/README.md">YARA</a>|
 | Identifying Malicious Activity/Processes | <a href="https://github.com/JoshuaWagstaff/Host-Artifacts">Host Artifacts</a>|
 | Incident Response & Network Defense           |  <a href="https://github.com/JoshuaWagstaff/Network-Defense">Network Defense</a>|
 | Utilizing Threat Intelligence Tools           | <a href="https://github.com/JoshuaWagstaff/Threat-Intelligence/blob/main/README.md">Threat Intelligence</a>|
@@ -72,4 +72,7 @@ https://github.com/JoshuaWagstaff/Host-Artifacts
 https://github.com/JoshuaWagstaff/Network-Defense
 
 https://github.com/JoshuaWagstaff/Threat-Intelligence/blob/main/README.md
+
+https://github.com/JoshuaWagstaff/YARA/blob/main/README.md
+
 
