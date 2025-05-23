@@ -13,7 +13,7 @@ As an aspiring cybersecurity professional, I am seeking a Tier 1 Analyst role wi
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | YARA Scripting                                | <a href="https://github.com/JoshuaWagstaff/YARA/blob/main/README.md">YARA</a>|
-| Identifying Malicious Activity/Processes | <a href="https://github.com/JoshuaWagstaff/Host-Artifacts">Host Artifacts</a>|
+| Using Snort With Live Attacks                 | <a href="https://github.com/JoshuaWagstaff/Snort">Snort</a>|
 | Incident Response & Network Defense           |  <a href="https://github.com/JoshuaWagstaff/Network-Defense">Network Defense</a>|
 | Utilizing Threat Intelligence Tools           | <a href="https://github.com/JoshuaWagstaff/Threat-Intelligence/blob/main/README.md">Threat Intelligence</a>|
 | MITRE ATT&CK                                  | <a href="https://github.com/JoshuaWagstaff/MITRE-ATT-CK">MITRE ATT&CK</a>|
@@ -72,6 +72,10 @@ https://github.com/JoshuaWagstaff/Network-Defense
 https://github.com/JoshuaWagstaff/Threat-Intelligence/blob/main/README.md
 
 https://github.com/JoshuaWagstaff/YARA/blob/main/README.md
+
+https://github.com/JoshuaWagstaff/Snort
+
+
 
 https://github.com/JoshuaWagstaff/MITRE-ATT-CK
 
