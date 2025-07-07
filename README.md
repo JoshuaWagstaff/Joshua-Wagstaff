@@ -80,3 +80,5 @@ https://github.com/JoshuaWagstaff/MITRE-ATT-CK
 https://github.com/JoshuaWagstaff/Malware-Analysis/blob/main/README.md
 
 https://github.com/JoshuaWagstaff/Python-Basics/blob/main/README.md
+
+https://github.com/JoshuaWagstaff/Nmap-Port-Scans/blob/main/README.md
