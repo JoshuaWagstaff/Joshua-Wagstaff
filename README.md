@@ -63,35 +63,54 @@ As an aspiring cybersecurity professional, I am seeking a Tier 1 Analyst role wi
 </div>
 
 ## Projects 
+
+Identify-Suspicious-Activity-with-SIEM
 https://github.com/JoshuaWagstaff/Identify-Suspicious-Activity-with-SIEM-
 
+Host-Artifacts
 https://github.com/JoshuaWagstaff/Host-Artifacts
 
+Network-Defense
 https://github.com/JoshuaWagstaff/Network-Defense
 
+Threat-Intelligence
 https://github.com/JoshuaWagstaff/Threat-Intelligence/blob/main/README.md
 
+YARA Scripting
 https://github.com/JoshuaWagstaff/YARA/blob/main/README.md
 
+Snort
 https://github.com/JoshuaWagstaff/Snort
 
+MITRE-ATT-CK
 https://github.com/JoshuaWagstaff/MITRE-ATT-CK
 
+Malware Analysis
 https://github.com/JoshuaWagstaff/Malware-Analysis/blob/main/README.md
 
+Python Basics
 https://github.com/JoshuaWagstaff/Python-Basics/blob/main/README.md
 
+Nmap Port Scans
 https://github.com/JoshuaWagstaff/Nmap-Port-Scans/blob/main/README.md
 
+Wireshark
 https://github.com/JoshuaWagstaff/Wireshark/blob/main/README.md
 
+Hydra Brute Forcing
 https://github.com/JoshuaWagstaff/Hydra-Brute-Forcing/blob/main/README.md
+
+Burp-Suite
 https://github.com/JoshuaWagstaff/Burp-Suite/blob/main/README.md
 
+Tshark
 https://github.com/JoshuaWagstaff/Tshark/blob/main/README.md
 
+MISP
 https://github.com/JoshuaWagstaff/MISP/blob/main/README.md
 
+OpenCTI
 https://github.com/JoshuaWagstaff/OpenCTI/blob/main/README.md
 
+Identifying Threats
 https://github.com/JoshuaWagstaff/Identify-A-Threat/blob/main/README.md
