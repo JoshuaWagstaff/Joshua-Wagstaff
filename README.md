@@ -15,7 +15,7 @@ As an aspiring cybersecurity professional, I am seeking a Tier 1 Analyst role wi
 | YARA Scripting                                | <a href="https://github.com/JoshuaWagstaff/YARA/blob/main/README.md">YARA</a>|
 | Using Snort With Live Attacks                 | <a href="https://github.com/JoshuaWagstaff/Snort">Snort</a>|
 | Incident Response & Network Defense           |  <a href="https://github.com/JoshuaWagstaff/Network-Defense">Network Defense</a>|
-| Utilizing Threat Intelligence Tools           | <a href="https://github.com/JoshuaWagstaff/Threat-Intelligence/blob/main/README.md">Threat Intelligence</a>|
+| Wireshark                                     | <a href="https://github.com/JoshuaWagstaff/Wireshark/blob/main/README.md">Wireshark</a>|
 | MITRE ATT&CK                                  | <a href="https://github.com/JoshuaWagstaff/MITRE-ATT-CK">MITRE ATT&CK</a>|
 | Python Basics                                 | <a href="https://github.com/JoshuaWagstaff/Python-Basics/blob/main/README.md">Python Basics</a>|
 ## Tools
@@ -82,3 +82,5 @@ https://github.com/JoshuaWagstaff/Malware-Analysis/blob/main/README.md
 https://github.com/JoshuaWagstaff/Python-Basics/blob/main/README.md
 
 https://github.com/JoshuaWagstaff/Nmap-Port-Scans/blob/main/README.md
+
+https://github.com/JoshuaWagstaff/Wireshark/blob/main/README.md
