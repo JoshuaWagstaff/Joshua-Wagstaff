@@ -17,7 +17,7 @@ As an aspiring cybersecurity professional, I am seeking a Tier 1 Analyst role wi
 | Burp Suite                                    |  <a href="https://github.com/JoshuaWagstaff/Burp-Suite/blob/main/README.md">Burp Suite</a>|
 | Wireshark                                     | <a href="https://github.com/JoshuaWagstaff/Wireshark/blob/main/README.md">Wireshark</a>|
 | MITRE ATT&CK                                  | <a href="https://github.com/JoshuaWagstaff/MITRE-ATT-CK">MITRE ATT&CK</a>|
-| Python Basics                                 | <a href="https://github.com/JoshuaWagstaff/Python-Basics/blob/main/README.md">Python Basics</a>|
+| Identifying Threats                           | <a href="https://github.com/JoshuaWagstaff/Identify-A-Threat/blob/main/README.md">Identify A Threat</a>|
 ## Tools
 
 ### Network Analysis
