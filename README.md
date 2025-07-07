@@ -8,13 +8,13 @@ I am a cybersecurity professional with a Bachelor's in Information Technology Ma
 
 As an aspiring cybersecurity professional, I am seeking a Tier 1 Analyst role within a Security Operations Center (SOC). With certifications in CompTIA Security+, CySA+, Network+, and ISC2 Certified in Cybersecurity, I am prepared to bring my expertise in incident response, network defense, and security monitoring to help organizations mitigate cyber threats. I am committed to continuous learning and growth while contributing to a team focused on protecting infrastructure from evolving cyber risks.
 
-## Skills
+## Highlighted Projects (Many More Below)
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | YARA Scripting                                | <a href="https://github.com/JoshuaWagstaff/YARA/blob/main/README.md">YARA</a>|
 | Using Snort With Live Attacks                 | <a href="https://github.com/JoshuaWagstaff/Snort">Snort</a>|
-| Incident Response & Network Defense           |  <a href="https://github.com/JoshuaWagstaff/Network-Defense">Network Defense</a>|
+| Burp Suite                                    |  <a href="https://github.com/JoshuaWagstaff/Burp-Suite/blob/main/README.md">Burp Suite</a>|
 | Wireshark                                     | <a href="https://github.com/JoshuaWagstaff/Wireshark/blob/main/README.md">Wireshark</a>|
 | MITRE ATT&CK                                  | <a href="https://github.com/JoshuaWagstaff/MITRE-ATT-CK">MITRE ATT&CK</a>|
 | Python Basics                                 | <a href="https://github.com/JoshuaWagstaff/Python-Basics/blob/main/README.md">Python Basics</a>|
@@ -84,3 +84,5 @@ https://github.com/JoshuaWagstaff/Python-Basics/blob/main/README.md
 https://github.com/JoshuaWagstaff/Nmap-Port-Scans/blob/main/README.md
 
 https://github.com/JoshuaWagstaff/Wireshark/blob/main/README.md
+
+https://github.com/JoshuaWagstaff/Burp-Suite/blob/main/README.md
