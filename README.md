@@ -17,7 +17,7 @@ As an aspiring cybersecurity professional, I am seeking a Tier 1 Analyst role wi
 | Incident Response & Network Defense           |  <a href="https://github.com/JoshuaWagstaff/Network-Defense">Network Defense</a>|
 | Utilizing Threat Intelligence Tools           | <a href="https://github.com/JoshuaWagstaff/Threat-Intelligence/blob/main/README.md">Threat Intelligence</a>|
 | MITRE ATT&CK                                  | <a href="https://github.com/JoshuaWagstaff/MITRE-ATT-CK">MITRE ATT&CK</a>|
-| Malware Analysis                              | <a href="https://github.com/JoshuaWagstaff/Malware-Analysis/blob/main/README.md">Malware Analysis</a>|
+| Python Basics                                 | <a href="https://github.com/JoshuaWagstaff/Python-Basics/blob/main/README.md">Python Basics</a>|
 ## Tools
 
 ### Network Analysis
